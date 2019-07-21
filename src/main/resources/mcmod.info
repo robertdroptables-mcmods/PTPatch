@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ptpatch",
+  "name": "Primal Tech Patch",
+  "description": "Resolves issue vadis365/PrimalTech#33",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RobertDropTable"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
